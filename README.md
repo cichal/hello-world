@@ -7,4 +7,4 @@ My name is Alex, I have been learning to write HTML and CSS and slowly learning 
 
 ## Shoutout
 Wouldn't be _here_ without my family. <br>
-My ~~wife~~ girlfriend, like she said > meow
+My ~~wife~~ girlfriend
